@@ -135,6 +135,20 @@
     "webpack-merge": "5.8.0",
     "webpack-notifier": "1.15.0"
   },
+  "dependenciesMeta": {
+    "@fortawesome/fontawesome-common-types": {
+      "built": false
+    },
+    "@fortawesome/fontawesome-svg-core": {
+      "built": false
+    },
+    "@fortawesome/free-brands-svg-icons": {
+      "built": false
+    },
+    "@fortawesome/free-solid-svg-icons": {
+      "built": false
+    }
+  },
   "engines": {
     "node": ">=16.16.0"
   },
